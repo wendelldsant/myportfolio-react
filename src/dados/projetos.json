@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "titulo": "E-Motion Grid",
+        "subtitulo": "Plataforma de Entretenimento feita em React+Tailwind",
+        "descricaoCompleta": "O E-Motion Grid é uma plataforma de entretenimento inovadora que permite aos usuários interagir com transmissões ao vivo, participar de enquetes em tempo real e explorar uma rede social voltada para fãs de automobilismo. Toda forma de interação no site é devolvida em forma de pontuação para o usuário que poderá ser trocada em nosso marketplace. Desenvolvido com React e TailwindCSS, o projeto foca em performance e uma experiência de usuário intuitiva.",
+        "imagem": "../formula-e-carros.jpg",
+        "dataLancamento": "Outubro de 2024",
+        "tecnologias": ["React", "TailwindCSS", "JavaScript"]
+    },
+    {
+        "id": 2,
+        "titulo": "Be-Ocean",
+        "subtitulo": "Plataforma de conexão entre voluntários e ONG's",
+        "descricaoCompleta": "Diante do crescente aumento dos problemas ambientais, participei do desenvolvimento da Be-Ocean, uma plataforma que visa conectar voluntários a ONGs. Nosso foco está em promover a simplicidade, a funcionalidade e a sustentabilidade, criando um espaço onde a colaboração e a conscientização ambiental possam prosperar. A plataforma foi desenvolvida usando os fundamentos de HTML/CSS unido com Javascript, colocando em prática conceitos como manipulação de DOM, uso do LocalStorage para armazenar dados e design responsivo e estilizado.",
+        "imagem": "../logo beocean.png",
+        "dataLancamento": "Junho de 2024",
+        "tecnologias": ["HTML5", "CSS", "JavaScript"]
+    },
+    {
+        "id": 3,
+        "titulo": "Conexão Sensores x Wifi",
+        "subtitulo": "Projeto IOT usando sensores umidade e temperatura para monitoramento de ambiente",
+        "descricaoCompleta": "Projeto realizado como protótipo para monitoramento de adegas de vinhos, usando ESP32, sensor DHT11, buzzer e conexão com Wifi. O projeto consiste em monitorar as condições de adegas, caso haja uma alteração no clima, uma mensagem será enviada ao WhatsApp do usuário do sistema",
+        "imagem": "../Projeto-Esp32.jpg",
+        "dataLancamento": "Em breve",
+        "tecnologias": ["Edge Computing", "IoT aplicado a ESP32", "C++"]
+    }
+]
